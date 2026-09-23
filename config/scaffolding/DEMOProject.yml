@@ -7,3 +7,12 @@ packages:
   gitUrl: https://github.com/wm-sdbit
   gitUsername: wm-sdbit
   gitBranch: main
+services:
+- serviceName: project.demo.integrations:demoFlow
+  packages:
+  - name: DEMOProject
+    version: "1.0"
+- serviceName: pub.flow:debugLog
+  packages:
+  - name: WmPublic
+    version: 12.1.0.0.1032

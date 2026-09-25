@@ -1,7 +1,7 @@
 version: "1.0"
 projectName: DEMOProject
 runtimes:
-- runtimeAlias: SDBITEDIMonitorEdgeRuntime
+- runtimeAlias: SDBITEDIMonitorRuntime
   assets:
   - name: fld_113158041_stage00.projects.fl32fac02a5f214cfea8f8912168e98c23.integrations:flowtest
     type: flow

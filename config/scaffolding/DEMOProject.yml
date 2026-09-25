@@ -7,6 +7,11 @@ packages:
   gitUrl: https://github.com/wm-sdbit
   gitUsername: wm-sdbit
   gitBranch: main
+- name: SDBITEDIMonitor
+  gitServerName: sdbit_github
+  gitUrl: https://github.com/wm-sdbit
+  gitUsername: wm-sdbit
+  gitBranch: main
 services:
 - serviceName: project.demo.integrations:demoFlow
   packages:

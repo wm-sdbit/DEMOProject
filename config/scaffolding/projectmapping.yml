@@ -6,4 +6,4 @@ runtimes:
   - name: fld_113158041_stage00.projects.fl32fac02a5f214cfea8f8912168e98c23.integrations:flowtest
     type: flow
     stepId: /0
-    reference: fld_113158041_stage00.projects.fl32fac02a5f214cfea8f8912168e98c23.WmPackageServiceProvider.SDBITEDIMonitor.main:OutMessageCreateService
+    reference: fld_113158041_stage00.projects.fl32fac02a5f214cfea8f8912168e98c23.WmPackageServiceProvider.SDBITEDIMonitor.main:InMessageCreateService
